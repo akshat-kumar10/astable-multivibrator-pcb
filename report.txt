@@ -1,0 +1,43 @@
+Info: Processing symbol 'C1:'.
+Info: Processing symbol 'U1:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'C2:'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'D1:'.
+Info: Processing symbol 'R3:'.
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'R2:'.
+Info: Processing symbol 'J2:'.
+Add net VCC.
+Connected U1 pin 4 to VCC.
+Add net GND.
+Connected U1 pin 1 to GND.
+Connected U1 pin 8 to VCC.
+Add net Net-(U1-CONT).
+Connected U1 pin 5 to Net-(U1-CONT).
+Updated U1 unit metadata.
+Added U1 (footprint 'Package_DIP:DIP-8_W7.62mm').
+Changed REF** reference designator to U1.
+Changed U1 value from DIP-8_W7.62mm to NE555P.
+Updated U1 symbol association from  to /12c5de74-4f51-4044-9aba-809f6b3a30b1.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'Astable_Multivibrator.kicad_sch'.
+Updated U1 footprint filters to 'DIP*W7.62mm*'.
+Add net Net-(U1-DISCH).
+Connected U1 pin 7 to Net-(U1-DISCH).
+Add net Net-(U1-THRES).
+Connected U1 pin 6 to Net-(U1-THRES).
+Add net Net-(J2-Pin_1).
+Connected U1 pin 3 to Net-(J2-Pin_1).
+Connected U1 pin 2 to Net-(U1-THRES).
+Error: Cannot add C1 (no footprint assigned).
+Error: Cannot add C2 (no footprint assigned).
+Error: Cannot add D1 (no footprint assigned).
+Error: Cannot add J1 (no footprint assigned).
+Error: Cannot add J2 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add R2 (no footprint assigned).
+Error: Cannot add R3 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 8.
