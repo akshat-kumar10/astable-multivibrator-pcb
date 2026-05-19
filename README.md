@@ -42,7 +42,8 @@ A through-hole KiCad project implementing an astable multivibrator using a NE555
 - `Gerbers/` — Generated Gerber outputs for fabrication
 - `Gerbers.zip` — Archive of the Gerber files
 
-![3D Model of PCB](3D Model.png)
+<img width="1195" height="704" alt="image" src="https://github.com/user-attachments/assets/e8d748ce-2a79-4278-b265-de21ce3ae332" />
+
 
 ## Usage
 
